@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KaiProfile</string>
+    <string name="HeadPicture">HeadPicture</string>
+    <string name="MyName">KaiExecutor\n@YuanJie</string>
+    <string name="Switch1">Age</string>
+    <string name="Switch2">Blog</string>
+    <string name="Switch3">Stacks</string>
+    <string name="Switch4">Hobbies</string>
+    <string name="Switch5">Country</string>
+    <string name="Version">v1.0.0</string>
+    <string name="Unkown">Guess what!</string>
+    <string name="ElseSwitch">I have said it</string>
+
+</resources>
